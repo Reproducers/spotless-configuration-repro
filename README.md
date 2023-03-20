@@ -1,0 +1,1 @@
+# spotless-configuration-repro
